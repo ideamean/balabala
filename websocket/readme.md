@@ -11,3 +11,5 @@ websocket 应用
 * 3: 修改script/nginx_websocket_msg_post.sh文件中 nginx.access.log 的路径为真实路径
 * 4: 执行
    nohup ./nginx_websocket_msg_post.sh &
+
+![screen](https://github.com/ideamean/balabala/blob/master/websocket/snapshot/screen.jpg)
